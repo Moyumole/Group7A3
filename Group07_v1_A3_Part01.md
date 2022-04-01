@@ -19,7 +19,7 @@ When using the Neighbourhood endpoint the user will recieve all streets with con
     neighbourhood name: neighbourhood name,
     "street": [
        {
-         "name": "name of street",
+         "street name": "name of street",
          "direction": "cardinal direction",
          "lane(s)": "lane with construction"
        }
@@ -54,12 +54,12 @@ https://cumapi.com/neighbourhood/{yyyy-mm-dd}?yyyy-mm-dd=2022-4-1
     "neighbourhood name": "Winnipeg North",
     "street": [
        {
-         "name": "Main Street",
+         "street name": "Main Street",
          "direction": "North",
          "lane(s)": "Middle, right"
        },
        {
-         "name": "Leila Avenue",
+         "street name": "Leila Avenue",
          "direction": "East",
          "lane(s)": "Left"
        }
