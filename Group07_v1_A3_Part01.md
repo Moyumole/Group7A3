@@ -54,7 +54,7 @@ https://cumapi.com/neighbourhood/{yyyy-mm-dd}?yyyy-mm-dd=2022-4-1
     "neighbourhood name": "Winnipeg North",
     "street": [
        {
-         "streetname": "Main Street",
+         "street name": "Main Street",
          "direction": "North",
          "lane(s)": "Middle, right"
        },
